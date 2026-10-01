@@ -1,3 +1,3 @@
-# Task Manager
+## Project Status
 
-A simple task management application.
+The project is currently under active development.
